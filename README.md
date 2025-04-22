@@ -32,4 +32,4 @@ Accuracy: 91%
 
 F1 Score (Weighted): 91%
 
-Reliable speaker prediction from unseen voice samples
+Reliable speaker prediction from validation voice samples
